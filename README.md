@@ -10,6 +10,12 @@
 
   
 
+XAFS Discussions (TEST）のページは以下よりアクセスできます。
+
+<https://github.com/matumot/xafs-discussions/discussions>
+
+
+
 ## 利用イメージ
 
 Discussionsの個別項目を設定できる。
