@@ -12,7 +12,7 @@
 
 XAFS Discussions (TEST）のページは以下よりアクセスできます。
 
-<https://github.com/matumot/xafs-discussions/discussions>
+<https://github.com/xafs-db/xafs-discussions/discussions>
 
 
 
