@@ -1,8 +1,8 @@
-# XAFS Discussions (TEST)
+# XAFS Discussions 
 
 
 
-日本XAFS研究会のXAFS データベースセッションで議論されている通り、以下を実現するフォーラムをGitHub Discussionsの機能を用いて構築したいと考えています。
+[日本XAFS研究会のXAFS データベースセッション](https://www.jxafs.org/xafs-database/)で議論されている通り、以下を実現するフォーラムをGitHub Discussionsの機能を用いて構築したいと考えています。
 
 * NIMS MDRを活用した XAFSデータベースの構築・利用について、利用者が意見を表明することができる。
 
@@ -10,7 +10,7 @@
 
   
 
-XAFS Discussions (TEST）のページは以下よりアクセスできます。
+XAFS Discussions のページは以下よりアクセスできます。
 
 <https://github.com/xafs-db/xafs-discussions/discussions>
 
@@ -28,7 +28,7 @@ Discussionsの個別項目を設定できる。
 
 * エネルギー校正の方法
   * Aさん:  foil dataをつけるべき
-  * Kさん:  賛成、「BTの最小には必ず foild dataをとって、保存すること」というルールにしましょう
+  * Kさん:  賛成、「BTの最初には必ず foild dataをとって、保存すること」というルールにしましょう
   * X氏: それはユーザーが面倒
 
 議論のメリット
