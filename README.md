@@ -40,7 +40,7 @@ Discussionや質問などがありましたら、[Discussions](https://github.co
 ![](https://user-images.githubusercontent.com/4617735/187120124-8558ed61-8eff-4a2b-b830-f8fe3ac5df41.png)
 
 * Announce
-  - 運用側からのお知らせをします。
+  - 運用側からのお知らせをします
   - ユーザーの皆様からアナウンスカテゴリとしての投稿はできません
      - コメントは可能ですので、要望などはコメントいただけると有難いです
 * General
