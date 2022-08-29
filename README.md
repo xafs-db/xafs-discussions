@@ -37,9 +37,9 @@ Discussionや質問などがありましたら、[Discussions](https://github.co
 * [GitHub Docs](https://docs.github.com/ja/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)
 
 ## カテゴリについて
-![](https://user-images.githubusercontent.com/4617735/187103786-2ebd9282-5829-411c-bf8e-94d45f2c21b4.png)
+![](https://user-images.githubusercontent.com/4617735/187120124-8558ed61-8eff-4a2b-b830-f8fe3ac5df41.png)
 
-* アナウンス
+* Announce
   - 運用側からのお知らせをします。
   - ユーザーの皆様からアナウンスカテゴリとしての投稿はできません
      - コメントは可能ですので、要望などはコメントいただけると有難いです
@@ -56,8 +56,8 @@ Discussionや質問などがありましたら、[Discussions](https://github.co
 
 ## Discussionについて
 
-* ある程度議論がすすんできたら、投稿した方が、始めの文書を編集してまとめを記述いただけると、議論の流れがわかりやすくなりよいと思います。
-* 終了した議論に関しては "クローズ”のラベルを付与します。
+* ある程度議論がすすんできたら、投稿した方が、始めの文書を編集してまとめを記述いただけると、議論の流れがわかりやすくなりよいと思います
+* 終了した議論に関しては "クローズ”のラベルを付与します
 * 議論はログをのこす意味でも基本的には消さないでください
 * コミュニティでは常に礼節ある行動をとってもらえると信じていますので、よろしくお願いいたします
 
