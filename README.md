@@ -2,22 +2,16 @@
 
 
 
-[日本XAFS研究会のXAFS データベースセッション](https://www.jxafs.org/xafs-database/)で議論されている通り、以下を実現するフォーラムをGitHub Discussionsの機能を用いて構築したいと考えています。
+## 概要
+
+[日本XAFS研究会のXAFS データベースセッション](https://www.jxafs.org/xafs-database/)で議論されている通り、XAFSデータベースフォーラムの運用を始めました。GitHub Discussionsを利用して以下を実現したいと考えています。
 
 * NIMS MDRを活用した XAFSデータベースの構築・利用について、利用者が意見を表明することができる。
-
 * XAFS データベースについてのユーザー意見を把握できる。
 
-  
+XAFSデータベースを充実させていくため、皆様からの意見をお待ちしています。
 
-XAFS Discussions のページは以下よりアクセスできます。
-
-<https://github.com/xafs-db/xafs-discussions/discussions>
-
-
-
-## 利用イメージ
-
+## 利用シーン
 Discussionsの個別項目を設定できる。
 
 * 試料名の書き方
@@ -26,19 +20,38 @@ Discussionsの個別項目を設定できる。
 
 それぞれの項目で、ユーザーにより議論を展開していただく。
 
-* エネルギー校正の方法
-  * Aさん:  foil dataをつけるべき
-  * Kさん:  賛成、「BTの最初には必ず foild dataをとって、保存すること」というルールにしましょう
-  * X氏: それはユーザーが面倒
+### エネルギー校正の方法
 
-議論のメリット
+1. Aさん: foil dataをつけるべき
+2. Kさん: 賛成、「BTの最初には必ず foild dataをとって、保存すること」というルールにしましょう
+3. X氏: それはユーザーが面倒
 
-* それぞれの個別項目で、議論がおのずと収束するか、発散して決められないかが明確になる。
+### 議論のメリット
+それぞれの個別項目で、議論がおのずと収束するか、発散して決められないかが明確になる。
 
+## 投稿方法
+Discussionや質問などがありましたら、[Discussions](https://github.com/xafs-db/xafs-discussions/discussions)から New discussionsを作成してください。作成にはGitHubアカウントが必要です。
+![](https://user-images.githubusercontent.com/4617735/187103723-c33f9c5c-4346-4956-b003-8d9168eb6a75.png)
 
+詳細は、公式のヘルプをご確認ください。
+* [GitHub Docs](https://docs.github.com/ja/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)
+
+## カテゴリについて
+![](https://user-images.githubusercontent.com/4617735/187103786-2ebd9282-5829-411c-bf8e-94d45f2c21b4.png)
+
+* アナウンス
+  - 運用側からのお知らせをします。
+  - ユーザーの皆様からアナウンスカテゴリとしての投稿はできません。
+     - コメントは可能ですので、要望などはコメントいただけると有難いです。
+* General
+  - 一般的な話題
+* Ideas
+ - アイデア(メタデータ案など)、要望など  
+* Q&A
+  - コミュニティへの質問
+  - ご協力できるユーザーの皆様からの回答をお待ちしています。
 
 ## 削除対応について
-
 個人情報保護を害する恐れがあると管理者が判断した投稿は、権利保護の観点より該当する Discussion を事前の相談なく削除させていただく場合があります。但し、問題ないことが確認できた場合は、削除されたDiscussion を再掲する場合があります。
 
 
